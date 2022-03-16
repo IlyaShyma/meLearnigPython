@@ -18,4 +18,10 @@ print( math.sqrt(49) )
 
 print("added some new code here")
 
+
+for n in range(10 +1 ):
+    print(n , "fuck you!")
+
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
